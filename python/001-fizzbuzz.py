@@ -35,7 +35,7 @@ if alp > 1 and argv[1] == "--version":
 if alp > 1 and argv[1] == "--help":
     print ('input data')
     print ('ctrl+d to quit')
-    print ('--sr for calculating 1.100 range')
+    print ('--sr for calculating Fizz Buzz in the 1-100 range')
     quit()
 
 if alp > 1 and argv[1] == "--sr":
